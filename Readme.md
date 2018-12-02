@@ -1,6 +1,6 @@
 # Meal Maker
 
-This is the code produced from the Google Assitant Medium post I wrote. The essence of which is below (but with worse formatting!)
+This is the code produced from the Google Assitant Medium post I wrote. The essence of which is below (but with worse formatting!) The original post is here: https://medium.com/@jimbotops_34097/100-minute-dev-google-assistant-55c8be728f8d
 
 ## Intro
 We're going to make an Action that finds a recipe based on the protein and carb you provide to it. If this is done on a device that doesn't have a screen (such as a Google Home), the action will 'switch surfaces' and be sent to a phone instead.
